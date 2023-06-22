@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Farwa-Miraj
 - 👀 I'm a Full Stack Developer
-- 🌱 I’m fullstack developer MEAN & golang.
-- 📫 How to reach me https://www.linkedin.com/in/farwa-miraj-288173188/
+- 🌱 I’m a full-stack developer of MEAN & Golang.
+- 📫 How to reach me https://www.linkedin.com/in/farwa-miraj/
 
 <!---
 Farwa-Miraj/Farwa-Miraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
