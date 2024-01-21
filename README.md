@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farwa-Miraj
 - 👀 I'm a Full Stack Developer
-- 🌱 I’m a full-stack developer of MEAN & Golang.
+- 🌱 MEAN & Golang.
 - 📫 How to reach me https://www.linkedin.com/in/farwa-miraj/
 
 <!---
